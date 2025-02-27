@@ -30,7 +30,7 @@ I'm a passionate developer diving deep into the world of programming.
 
 <p align="center">
  <a href="https://www.linkedin.com/in/beverly-bryant-269308349/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="https://https://t.me/BaverlyD" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/ios/50/000000/telegram-app.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://t.me/BaverlyD" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/ios/50/000000/telegram-app.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="https://www.instagram.com/baverly.br/?hl=en" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/ios/50/000000/instagram-new.png" alt="Instagram" height="40" style="vertical-align:top; margin:4px">
   </a>
