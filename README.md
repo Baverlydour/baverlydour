@@ -2,6 +2,7 @@
  
 I'm a passionate developer diving deep into the world of programming.
 
+- Student at University of Illinois Chicago
 - 🚀 **Beginner** in Python & C++  
 - 🎨 **Professional** in HTML, CSS & React  
 - 💡 Always learning & building cool projects
