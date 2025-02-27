@@ -16,10 +16,10 @@ I'm a passionate developer diving deep into the world of programming.
 
 
 ## Github Stats
-![beverly_Stats](https://github-readme-stats.vercel.app/api?username=baverlydour&theme=radical&show_icons=true&count_private=true)
+![beverly_Stats](https://github-readme-stats.vercel.app/api?username=beverlybrya&theme=radical&show_icons=true&count_private=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baverlydour&layout=compact&theme=radical&count_private=true)](https://github.com/baverlydour/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beverlybrya&layout=compact&theme=radical&count_private=true)](https://github.com/beverlybrya/github-readme-stats)
 
 
 <!-- 
